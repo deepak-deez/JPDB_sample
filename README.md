@@ -17,3 +17,4 @@ The HTML template has a form with three fields:
 
   
   ![Screenshot 2023-08-03 182847](https://github.com/deepak-deez/JPDB_sample/assets/58558866/e2b57533-b89c-41a7-a80f-8c15b77b87c5)
+![Screenshot 2023-08-03 183154](https://github.com/deepak-deez/JPDB_sample/assets/58558866/7958b0ee-25df-424f-8a1b-e75add4c3c56)
